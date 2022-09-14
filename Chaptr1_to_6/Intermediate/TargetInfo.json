@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Chaptr1_to_6",
+			"Path": "D:\\github\\22-2-AIGame\\Chaptr1_to_6\\Source\\Chaptr1_to_6.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Chaptr1_to_6Editor",
+			"Path": "D:\\github\\22-2-AIGame\\Chaptr1_to_6\\Source\\Chaptr1_to_6Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chaptr1_to_6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E4E11C85-3BC2-4E86-A760-409D638FFE43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chaptr1_to_6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Chaptr1_to_6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{814B4A92-1ECC-4008-974F-9E0F9B9B825F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Chaptr1_to_6">
+      <UniqueIdentifier>{DBF3E9E1-AB68-4F33-BF1C-2022D42A2FCC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6.Build.cs">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6.cpp">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6.h">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6Character.cpp">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6Character.h">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6GameMode.cpp">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chaptr1_to_6\Chaptr1_to_6GameMode.h">
+      <Filter>Source\Chaptr1_to_6</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
